@@ -1,0 +1,6 @@
+{
+  "name": "VeriFace Campus — Automated Student Attendance",
+  "description": "Automated student attendance system powered by facial recognition, role-based academic portals, and MongoDB Atlas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
